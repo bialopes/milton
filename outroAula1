@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int i;
+    scan function ("%d",&i);
+    printf("O valor da entrada eh:%d",i); //sempre o %d fica dentro da str
+}
